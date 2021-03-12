@@ -18,8 +18,9 @@
 Array is the collection of similar type of elements
 import numpy as np**
 
-# 2. Pandas : Pandas is a data analysis tool kit which can handle different kinds of data, also handles missing data.
+# 2. Pandas :
+**Pandas is a data analysis tool kit which can handle different kinds of data, also handles missing data.**
 
-# 3. Matplotlib : Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+.
+# 3. Matplotlib : **Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+.**
 
-# 4. Seaborn : Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+# 4. Seaborn : **Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.**
